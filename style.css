@@ -1,0 +1,81 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: hotpink;
+}
+.baba{
+    border: 5px solid black;
+    background-color: salmon;
+    height: 800px;
+    width: 800px;
+    margin: 200px 600px;
+}
+.kas{
+    display: inline-block;
+    height: 0px;
+    width: 150px;
+    border: 5px solid black;
+    border-radius: 25px;
+    }
+.gozluk{
+    height: 125px;
+    width: 250px;
+    border: 5px solid rebeccapurple;
+    border-radius: 25px;
+    margin-top: 250px;
+    background-color: grey;
+}
+.bir{
+    float: left;
+    margin-left: 40px;
+}
+.iki{
+    float: right;
+    margin-right: 40px;
+
+}
+.baglanti{
+    height: 5px;
+    width: 260px;
+    border: 5px solid rebeccapurple;
+    margin: auto;
+    margin-top: 300px;
+}
+.goz{
+    border: 5px solid black;
+    background-color: white ;
+    border-radius: 75px;
+    width: 125px;
+    height: 75px;
+    margin: auto;
+    margin-top: 20px;
+}
+.bebek{
+    border: 5px solid black;
+    background-color: red ;
+    border-radius: 75px;
+    width: 25px;
+    height: 65px;
+    margin: auto;
+}
+.burun{
+    width: 0;
+    height: 150px;
+    border: 5px solid black;
+    border-radius: 25px;
+    margin: auto;
+    margin-top: 75px;
+
+}
+.agiz{
+    height: 0;
+    width: 200px;
+    border: 5px solid black;
+    border-radius: 25px;
+    margin: auto;
+    margin-top: 150px;
+
+}
